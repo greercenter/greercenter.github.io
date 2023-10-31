@@ -4626,3 +4626,23 @@ input, select, textarea {
 				}
 
 		}
+
+
+/*
+	My additions
+*/
+
+.sponsor-container {
+    display: flex;
+    align-items: center; /* Vertically center the content */
+}
+
+.logo {
+    max-width: 100px; /* Set a maximum width for the logo */
+    height: auto; /* Allow the logo's height to adjust proportionally */
+    margin-right: 15px; /* Add spacing between the logo and text */
+}
+
+.text {
+    flex: 1; /* Allow the text to take up remaining space */
+}
