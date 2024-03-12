@@ -1,0 +1,9 @@
+For newsletter icons: 
+* screenshot an the image to use in the newsletter
+* open the clip in gimp
+* scale the image so the largest dimension is 250
+* resize the canvas to the other dimension is 250
+* position the image as desired w/in the canvas
+* export
+
+To reduce the size of the newsletter: Drop it into the Adober compression tool (I googled it)
